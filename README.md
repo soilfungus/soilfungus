@@ -1,1 +1,1 @@
-# soil-fungus
+# soilfungus
