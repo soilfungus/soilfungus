@@ -12,3 +12,7 @@ Postdoctoral researcher at UNAM
 ## Current project
 
 Pyrene adaptation in Rhodococcus ruber
+
+![Python](https://img.shields.io/badge/Python-Bioinformatics-blue)
+![R](https://img.shields.io/badge/R-Statistics-blue)
+![Linux](https://img.shields.io/badge/Linux-Bash-green)
