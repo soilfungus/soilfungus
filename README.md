@@ -32,4 +32,4 @@ Postdoctoral researcher at UNAM working on microbial evolution, comparative geno
 ## 📡 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paweł_Huryn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vurt/)
-[![Twitter/X](https://img.shields.io/badge/X-@PawelHuryn-black?style=flat-square&logo=x)](https://x.com/soilfungus)
+[![Twitter/X](https://img.shields.io/badge/X-@soilfungus-black?style=flat-square&logo=x)](https://x.com/soilfungus)
