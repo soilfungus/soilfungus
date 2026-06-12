@@ -38,7 +38,6 @@ This repository contains workflows, scripts, and comparative genomics analyses u
 
 ## Current projects
 
-- Adaptive evolution of *Rhodococcus ruber* under high pyrene concentrations
 - Comparative genomics of evolved strains
 - Genome assembly and polishing workflows
 
