@@ -2,6 +2,25 @@
 
 Postdoctoral researcher at UNAM working on microbial evolution, comparative genomics, and hydrocarbon biodegradation.
 
+## Available workflows
+
+### Genome Assembly
+- Unicycler hybrid assembly
+- Medaka polishing
+- Polypolish polishing
+- Assembly QC
+
+### Variant Analysis
+- breseq workflow
+- SNP calling using BWA, Samtools and BCFtools
+
+### RNA Structure Analysis
+- RNAfold analysis of non-coding mutations
+
+### Comparative Genomics
+- Plasmid comparison workflows
+- MUMmer alignments
+
 ## Research interests
 
 - Comparative genomics
