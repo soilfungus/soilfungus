@@ -4,6 +4,7 @@ Postdoctoral researcher at UNAM working on microbial evolution, comparative geno
 
 ## Available workflows
 
+´´´
 ### Genome Assembly
 - Unicycler hybrid assembly
 - Medaka polishing
@@ -20,6 +21,8 @@ Postdoctoral researcher at UNAM working on microbial evolution, comparative geno
 ### Comparative Genomics
 - Plasmid comparison workflows
 - MUMmer alignments
+´´´
+
 
 ## Research interests
 
