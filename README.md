@@ -2,11 +2,11 @@
 
 Postdoctoral researcher at UNAM working on microbial evolution, comparative genomics, and hydrocarbon biodegradation.
 
-# Pyrene-adapted Rhodococcus strain
+# Pyrene-adapted *Rhodococcus ruber* strain
 
-<img width="1200" height="480" alt="graph" src="https://github.com/user-attachments/assets/acb892e6-eb96-4bc2-9c88-a8d1144fa548" />
+<img width="3839" height="1378" alt="bitmap" src="https://github.com/user-attachments/assets/d29c4813-44c6-4cf3-bef1-6dc9b62f5b7f" />
 
-This repository contains workflows, scripts, and comparative genomics analyses used to investigate adaptive laboratory evolution of Rhodococcus ruber under extreme pyrene selection.
+This repository contains workflows, scripts, and comparative genomics analyses used to investigate adaptive laboratory evolution of *Rhodococcus ruber* under extreme pyrene selection.
 
 ## Available workflows
 
