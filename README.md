@@ -1,4 +1,4 @@
-<img align="right" height="140" alt="CCC5EF3B-4D4C-434B-90A8-30FCD1DB8F3A" src="https://github.com/user-attachments/assets/ce1a9690-31e4-4253-a9ca-14491fc56238" /> 
+<img align="right" width="100" alt="CCC5EF3B-4D4C-434B-90A8-30FCD1DB8F3A" src="https://github.com/user-attachments/assets/ce1a9690-31e4-4253-a9ca-14491fc56238" /> 
 
 # Gabriela Calcáneo-Hernández
 
