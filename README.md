@@ -31,6 +31,17 @@ Adaptive laboratory evolution of *Rhodococcus ruber* under extreme pyrene select
 - Plasmid comparison workflows
 - MUMmer alignments
 
+## Technical skills
+
+- Python
+- R
+- Linux
+- Git/GitHub
+- Genome assembly (Unicycler, Medaka, Polypolish)
+- Comparative genomics
+- Variant calling (breseq, BCFtools)
+- RNA secondary structure analysis (RNAfold)
+
 ## Research interests
 
 - Comparative genomics
@@ -48,14 +59,6 @@ Adaptive laboratory evolution of *Rhodococcus ruber* under extreme pyrene select
 
 - Journal of Fungi (2023) – DOI: 10.3390/jof9090939
 - Brazilian Journal of Microbiology (2020) – DOI: 10.1007/s42770-020-00329-7
-
-## Tools
-
-- Python
-- R
-- Genome assembly
-- Comparative genomics
-- RNA-seq analysis
 
 ## 📡 Find me
 
