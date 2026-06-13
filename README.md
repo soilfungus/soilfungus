@@ -22,7 +22,7 @@ Postdoctoral researcher at UNAM working on microbial evolution, comparative geno
 <img width="800" alt="bitmap" src="https://github.com/user-attachments/assets/ad7d08c5-0967-4f5d-98ea-a855ca2d3066" />
 
 
-Adaptive laboratory evolution of *Rhodococcus ruber* under extreme pyrene selection followed by hybrid genome assembly, comparative genomics, and mutation analysis.
+Adaptive laboratory evolution of a petroleum-degrading bacterium under extreme pyrene selection followed by hybrid genome assembly, comparative genomics, and mutation analysis.
 
 ## Available workflows
 
