@@ -16,7 +16,7 @@ Postdoctoral researcher at UNAM working on microbial evolution, comparative geno
 </tr>
 </table>
 
-# Pyrene-adapted *Rhodococcus ruber* strain
+## Pyrene-adapted *Rhodococcus ruber* strain
 
 <p align="center">
 <img width="800" alt="bitmap" src="https://github.com/user-attachments/assets/ad7d08c5-0967-4f5d-98ea-a855ca2d3066" />
